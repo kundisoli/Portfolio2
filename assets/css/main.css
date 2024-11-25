@@ -1174,7 +1174,7 @@ section,
 }
 
 .details .features-item+.features-item {
-  margin-top: 100px;
+  margin-top: 5px;
 }
 
 @media (max-width: 640px) {
