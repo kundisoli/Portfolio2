@@ -45,7 +45,7 @@
 }
 
 .dark-background {
-  --background-color: #08005e;
+  --background-color: #3457D5;
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --surface-color: #0c0091;
@@ -83,7 +83,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--heading-color);
+  color: #0830c1;
   font-family: var(--heading-font);
 }
 
